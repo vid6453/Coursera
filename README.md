@@ -8,11 +8,17 @@ The data is taken from the below link.
 The run_analysis.r file contains the code to clean the data for further analysis of the data.
 
 The below steps are followed to clean the data.
+
 *Initially downloaded the zip file to a local folder and unzipped it for further use.
+
 *Merged all the test and train files to create one file.
+
 *Extracted only the measurements on the mean and standard deviation for each measurement.
+
 *Used descriptive activity names to name the activities in the data set.
+
 *Appropriately labelled the data set with descriptive variable names.
+
 *Using the above dataset, have created a tidy dataset with the average of each variable for each activity and each subject.
 
 To run the script
